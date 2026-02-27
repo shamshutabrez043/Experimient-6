@@ -36,7 +36,7 @@ public class ExceptionArray {
 ```
 
 OUTPUT:
-![output](exp-6a.png)
+![output of Experiment-6](exp-6a.png)
 
 
 
@@ -97,7 +97,7 @@ public class MultipleCatchExample {
 OUTPUT:
 
 
-![output](exp-6b).png)
+![output of Experiment-6](exp-6b.png)
 
 
 ##  Experiment-6(C)
@@ -156,5 +156,5 @@ public class MultipleExceptionExample {
 ```
 OUTPUT:
 
-![output](exp-6c).png)
+![output of Experiment-6](exp-6c.png)
 
